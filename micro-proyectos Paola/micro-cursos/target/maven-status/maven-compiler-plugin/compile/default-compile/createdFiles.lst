@@ -1,0 +1,6 @@
+com\espe\micro_cursos\services\ProyectoServiceImpl.class
+com\espe\micro_cursos\controllers\ProyectoController.class
+com\espe\micro_cursos\services\ProyectoService.class
+com\espe\micro_cursos\MicroCursosApplication.class
+com\espe\micro_cursos\repositories\ProyectoRepository.class
+com\espe\micro_cursos\model\entity\Proyecto.class
