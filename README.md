@@ -1,5 +1,3 @@
-# Micro-servicios-Proyectos
-
 # Micro-Proyectos API
 
 Este proyecto es un microservicio desarrollado con **Spring Boot** que expone una API REST para la gestión de proyectos. Su propósito es permitir operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre una entidad llamada `Proyecto`. El sistema está preparado para ejecutarse en contenedores Docker y aplica validaciones automáticas.
