@@ -50,8 +50,28 @@ Ejecuta el siguiente comando para limpiar y empaquetar el proyecto sin ejecutar 
    ```bash
    mvn clean package -DskipTests
 3. **Acceder a la API**:
-```bash
+   ```bash
    http://localhost:8005
+
+# Instrucciones para Ejecutar el Proyecto con Docker
+
+1. **Construir la imagen Docker:**  
+   Ejecuta el siguiente comando para construir la imagen:  
+   ```bash
+   docker-compose build
+   ```
+
+2. **Levantar los contenedores:**  
+   Usa este comando para iniciar los contenedores:  
+   ```bash
+   docker-compose up
+   ```
+
+3. **Acceder a la API:**  
+   Una vez iniciado, la API estará disponible en:  
+   ```bash
+   http://localhost:8003
+   ```
 
 
 
